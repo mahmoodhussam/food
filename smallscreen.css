@@ -1,0 +1,42 @@
+@media screen and (max-width: 768px) {
+	.list-hero{
+		display: none;
+	}
+	.menu-icon{
+		display: flex;
+		background-color: 
+	}
+	#home{
+		background-position: 0px 0px;
+	}
+	.c1{
+		display: none;
+	}
+	#menu{
+		margin-bottom: 2200px;
+	}
+	#popular{
+		margin-bottom: 1900px;
+	}
+	.about-head{
+		flex-direction: column-reverse;
+	}
+	.side1-about{
+		margin: 80px auto 0px auto;
+	}
+	.side1-about img{
+		width: 100%;
+	}
+	.side2-about{
+		margin: 0px auto;
+	}
+	.search{
+		display: none;
+	}
+	#conect{
+		height: 92vh;
+	}
+	.row-conect{
+		justify-content: space-between;
+	}
+}

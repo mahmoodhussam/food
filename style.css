@@ -239,6 +239,7 @@
 .row-conect{
 	padding: 100px;
 	display: flex;
+	flex-wrap:wrap;
 	justify-content: space-around;
 }
 .col-conect ul{
@@ -273,5 +274,14 @@
 #developer{
 	color:#000;
 	text-align: center;
+	cursor: pointer;
+}
+.menu-icon{
+	font-size: 50px;
+	text-align: center;
+	color:#F28705;
+	margin-top: 10px;
+	margin-left: 100px;
+	display: none;
 	cursor: pointer;
 }
