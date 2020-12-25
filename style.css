@@ -4,11 +4,14 @@
 	scroll-behavior: smooth;
 	font-family: sans-serif;
 }
+body{
+	overflow-x: hidden;
+}
 .orange{
 	color:#F28705;
 }
 .section{
-	width: 100%;
+	width: 100vw;
 	height: 100vh;
 }
 #home{

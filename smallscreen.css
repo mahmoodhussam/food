@@ -1,4 +1,14 @@
 @media screen and (max-width: 768px) {
+	.hero-head h1{
+		font-size: 20px;
+	}
+	.hero-head input{
+	margin-top: 30px;
+	width: 150px;
+	padding:10px 25px;
+	color:#000;
+	font-size: 15px;
+	}
 	.list-hero{
 		display: none;
 	}
@@ -20,16 +30,32 @@
 	}
 	.about-head{
 		flex-direction: column-reverse;
+		margin: 0px;
 	}
 	.side1-about{
-		margin: 80px auto 0px auto;
+		margin: 0px 0px 50px 0px;
+		width: 350px;
+		height: 400px;
 	}
 	.side1-about img{
-		width: 100%;
+		width: 100vw;
 	}
+	.side2-about h1{
+		margin-bottom: 10px;
+	}
+	.side2-about p{
+		width: 300px;
+		margin-bottom: 20px;
+	}
+
+	.line{
+		display: none;
+	}
+
 	.side2-about{
 		margin: 0px auto;
 	}
+
 	.search{
 		display: none;
 	}
