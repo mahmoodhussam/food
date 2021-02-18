@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mahmoodhussam/Food_API/static/css/main.709340b9.chunk.css",
+    "main.js": "/mahmoodhussam/Food_API/static/js/main.e87b9783.chunk.js",
+    "main.js.map": "/mahmoodhussam/Food_API/static/js/main.e87b9783.chunk.js.map",
+    "runtime-main.js": "/mahmoodhussam/Food_API/static/js/runtime-main.fec8443c.js",
+    "runtime-main.js.map": "/mahmoodhussam/Food_API/static/js/runtime-main.fec8443c.js.map",
+    "static/js/2.f37294f1.chunk.js": "/mahmoodhussam/Food_API/static/js/2.f37294f1.chunk.js",
+    "static/js/2.f37294f1.chunk.js.map": "/mahmoodhussam/Food_API/static/js/2.f37294f1.chunk.js.map",
+    "static/js/3.50450b50.chunk.js": "/mahmoodhussam/Food_API/static/js/3.50450b50.chunk.js",
+    "static/js/3.50450b50.chunk.js.map": "/mahmoodhussam/Food_API/static/js/3.50450b50.chunk.js.map",
+    "index.html": "/mahmoodhussam/Food_API/index.html",
+    "static/css/main.709340b9.chunk.css.map": "/mahmoodhussam/Food_API/static/css/main.709340b9.chunk.css.map",
+    "static/js/2.f37294f1.chunk.js.LICENSE.txt": "/mahmoodhussam/Food_API/static/js/2.f37294f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fec8443c.js",
+    "static/js/2.f37294f1.chunk.js",
+    "static/css/main.709340b9.chunk.css",
+    "static/js/main.e87b9783.chunk.js"
+  ]
+}
